@@ -1,0 +1,10 @@
+* cl-isolated
+
+A restricted environment for Common Lisp code evaluation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kanru/cl-isolated.git   |
+| commit  | 05bbc03  |
+| systems | cl-isolated |
+|---------+-------------------------------------------|
+
